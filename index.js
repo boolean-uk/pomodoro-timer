@@ -8,8 +8,8 @@ const breakTimer = document.querySelector("#breakTimer")
 const addTimeBtn = document.querySelector("#addTimeBtn")
 const circle = document.querySelector("#circleTimer")
 const needle = document.querySelector(".needle")
-const workSeconds = 3
-const breakSeconds = 3
+const workSeconds = 15
+const breakSeconds = 15
 const radius = 50;
 const increment = 60
 
